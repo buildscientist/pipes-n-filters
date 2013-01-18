@@ -1,0 +1,9 @@
+Requirements: 
+Python 2.7 or higher. 
+
+How-To: 
+To run the processor execute the python interpreter against it e.g. 
+
+python processor.py --data-source /path/to/data/source
+
+Note: The resources directory already contains the text files being processed again. The stopwords.txt file must stay in there as I have hardcoded that path in the code. 
